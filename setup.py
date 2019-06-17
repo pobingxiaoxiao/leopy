@@ -29,7 +29,6 @@ setup(
     test_suite='nose.collector',
     tests_require=['nose'],
     entry_points = {
-        'console_scripts': ['leo-slogon=leopy.command_line:main'],
-        'console_scripts': ['leo-phone=leopy.command_line:phone'],
+        'console_scripts': ['leo-slogon=leopy.command_line:main','leo-phone=leopy.command_line:phone'],
     },
 )

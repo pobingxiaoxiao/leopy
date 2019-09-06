@@ -6,3 +6,8 @@ To use (with caution), simply do:
 >>> import leopy
 >>> leopy.joke()
 ```
+
+To Install on your local machine 
+```cmd
+pip install .
+```

@@ -1,0 +1,1 @@
+from .work import open_app
